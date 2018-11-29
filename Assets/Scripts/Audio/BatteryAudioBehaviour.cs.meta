@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad1a890ea04735249a097c7a193df7f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upgradeClip: {fileID: 8300000, guid: 24f92a7dc3f6ff644aca071ab8eb6cf4, type: 3}
+  - fixClip: {fileID: 8300000, guid: 8f2c7f1d92a44e24f8d7659d67f2d8ce, type: 3}
+  - overheatClip: {fileID: 8300000, guid: eaa5606bfea74dc4b9edf88e57a89aa0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

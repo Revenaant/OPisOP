@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: a23806b84884abd469c79b1c40ce5899
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LightMachine_Base
+    100004: LightMachine_Box
+    100006: LightMachine_Bulb_Base
+    100008: LightMachine_Lightbulb
+    100010: LightMachine_Switch
+    100012: pCube23
+    100014: LightMachine_Switch1
+    100016: polySurface108
+    100018: polySurface109
+    100020: polySurface109 1
+    100022: polySurface110
+    100024: polySurface111
+    100026: polySurface111 1
+    100028: polySurface112
+    100030: polySurface113
+    100032: polySurface114
+    100034: polySurface114 1
+    100036: polySurface115
+    100038: polySurface116
+    100040: polySurface117
+    100042: polySurface117 1
+    100044: polySurface118
+    100046: polySurface119
+    100048: polySurface120
+    100050: polySurface121
+    100052: polySurface122
+    100054: transform154
+    100056: transform155
+    100058: transform156
+    100060: transform157
+    100062: transform158
+    100064: transform159
+    100066: transform160
+    100068: transform161
+    100070: transform162
+    100072: transform163
+    100074: transform164
+    100076: transform165
+    100078: transform166
+    100080: transform167
+    100082: transform168
+    100084: transform169
+    100086: transform170
+    100088: transform171
+    100090: transform172
+    100092: transform173
+    100094: transform174
+    100096: transform175
+    100098: transform176
+    100100: transform177
+    100102: Lightmachine_Exterior1
+    100104: LightmachineHandle_Exterior
+    400000: //RootNode
+    400002: LightMachine_Base
+    400004: LightMachine_Box
+    400006: LightMachine_Bulb_Base
+    400008: LightMachine_Lightbulb
+    400010: LightMachine_Switch
+    400012: pCube23
+    400014: LightMachine_Switch1
+    400016: polySurface108
+    400018: polySurface109
+    400020: polySurface109 1
+    400022: polySurface110
+    400024: polySurface111
+    400026: polySurface111 1
+    400028: polySurface112
+    400030: polySurface113
+    400032: polySurface114
+    400034: polySurface114 1
+    400036: polySurface115
+    400038: polySurface116
+    400040: polySurface117
+    400042: polySurface117 1
+    400044: polySurface118
+    400046: polySurface119
+    400048: polySurface120
+    400050: polySurface121
+    400052: polySurface122
+    400054: transform154
+    400056: transform155
+    400058: transform156
+    400060: transform157
+    400062: transform158
+    400064: transform159
+    400066: transform160
+    400068: transform161
+    400070: transform162
+    400072: transform163
+    400074: transform164
+    400076: transform165
+    400078: transform166
+    400080: transform167
+    400082: transform168
+    400084: transform169
+    400086: transform170
+    400088: transform171
+    400090: transform172
+    400092: transform173
+    400094: transform174
+    400096: transform175
+    400098: transform176
+    400100: transform177
+    400102: Lightmachine_Exterior1
+    400104: LightmachineHandle_Exterior
+    2100000: LightMachine_Material
+    2100002: Bulb
+    2100004: LightMachine_Material6
+    2100006: Lightmachine_Glass
+    2100008: BulbString
+    2100010: Bulb2
+    2100012: Machines_Base
+    2300000: LightMachine_Base
+    2300002: LightMachine_Box
+    2300004: LightMachine_Bulb_Base
+    2300006: LightMachine_Lightbulb
+    2300008: LightMachine_Switch
+    2300010: polySurface117
+    2300012: //RootNode
+    2300014: Lightmachine_Exterior1
+    2300016: LightmachineHandle_Exterior
+    3300000: LightMachine_Base
+    3300002: LightMachine_Box
+    3300004: LightMachine_Bulb_Base
+    3300006: LightMachine_Lightbulb
+    3300008: LightMachine_Switch
+    3300010: polySurface117
+    3300012: //RootNode
+    3300014: Lightmachine_Exterior1
+    3300016: LightmachineHandle_Exterior
+    4300000: LightMachine_Base
+    4300002: LightMachine_Box
+    4300004: LightMachine_Switch
+    4300006: LightMachine_Bulb_Base
+    4300008: LightMachine_Lightbulb
+    4300010: polySurface117
+    4300012: Lightmachine_Exterior1
+    4300014: LightmachineHandle_Exterior
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

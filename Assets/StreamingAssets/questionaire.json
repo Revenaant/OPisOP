@@ -1,0 +1,19 @@
+{
+    "questions": [
+        {
+            "name": "Voorbeeld naam 1",
+            "question1": 4,
+            "question2": 1
+        },
+        {
+            "name": "Voorbeeld naam 2",
+            "question1": 0,
+            "question2": 2
+        },
+        {
+            "name": "Voorbeeld naam 2",
+            "question1": 1,
+            "question2": 2
+        }
+    ]
+}

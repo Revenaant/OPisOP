@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c433c5227abfb414c9a7e390123de9c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RopeMachine: {fileID: 1562725553980970, guid: c6b271e59c84255458d46ed76a60f983,
+      type: 2}
+  - WhackAMole: {fileID: 1665280526426916, guid: 687d3946492b70c4089b450ade6f8f59,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

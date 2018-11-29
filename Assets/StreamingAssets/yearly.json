@@ -1,0 +1,47 @@
+{
+    "date": {
+        "value": 131751360000000000
+    },
+    "scores": [
+        {
+            "name": "22334",
+            "points": 0,
+            "checkpoints": 0,
+            "jdt": {
+                "value": 131751707213400270
+            }
+        },
+        {
+            "name": "Voorbeeld naam 1",
+            "points": 0,
+            "checkpoints": 0,
+            "jdt": {
+                "value": 131751838457132096
+            }
+        },
+        {
+            "name": "Voorbeeld naam 1",
+            "points": 0,
+            "checkpoints": 0,
+            "jdt": {
+                "value": 131751841347991751
+            }
+        },
+        {
+            "name": "Voorbeeld naam 1",
+            "points": 0,
+            "checkpoints": 0,
+            "jdt": {
+                "value": 131751844603977805
+            }
+        },
+        {
+            "name": "Voorbeeld naam 1",
+            "points": 0,
+            "checkpoints": 0,
+            "jdt": {
+                "value": 131751852493972049
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8222b66a83b63664cac48381cb0c1710
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpUpClip: {fileID: 8300000, guid: f2db1e131a47a794a8e96d0f6a877df0, type: 3}
+  - landClip: {fileID: 8300000, guid: 00b11fff665c0b6499994ed6f52d9adc, type: 3}
+  - eatClip: {fileID: 8300000, guid: 7198ed34e411cec45a0be23e162dd90e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

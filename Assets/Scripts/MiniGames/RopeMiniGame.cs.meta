@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bda472bca91c01d419ea9133c73d1f37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _GroundAmination: {fileID: 95809058171908426, guid: b3270ece445955b4c96f259de5435972,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

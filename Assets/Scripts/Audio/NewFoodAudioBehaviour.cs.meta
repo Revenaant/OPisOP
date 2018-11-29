@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4913fcb764181bc408c62c30986669d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plantClip: {fileID: 8300000, guid: eeb471726fd696c48b946e208d91b684, type: 3}
+  - harvestClip: {fileID: 8300000, guid: c1f8b8f1176b3aa42acd3f48d728f566, type: 3}
+  - machineClip: {fileID: 8300000, guid: c000a597a28844b4cb96ed9b2146d0f7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

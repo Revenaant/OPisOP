@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a79610b9ec878c54ea43e9a64396fc6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upgradeClip: {fileID: 8300000, guid: d1062a5c0458d114e973d537113c2dde, type: 3}
+  - sinlgeCleanClip: {fileID: 8300000, guid: c1fd4932226d77149922f9d66dff11d7, type: 3}
+  - cleanClip: {fileID: 8300000, guid: d6176da759864ea4c87751461656674d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

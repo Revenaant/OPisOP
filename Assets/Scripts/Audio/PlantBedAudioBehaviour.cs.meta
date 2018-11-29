@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9bc56d58c2766a7448e8d96b6fd1a5d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - makeClip: {fileID: 8300000, guid: 4ef4a2fe69c1dfe42a018ce09a922969, type: 3}
+  - deadClip: {fileID: 8300000, guid: b61a0518a6ba70745aba1b274bd02c48, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
